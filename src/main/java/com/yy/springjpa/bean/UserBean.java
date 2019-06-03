@@ -16,6 +16,10 @@ public class UserBean {
     private String uname;
     private String uphone;
 
+
+
+
+
     public void setUid(int uid) {
         this.uid = uid;
     }
